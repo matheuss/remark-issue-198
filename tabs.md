@@ -1,0 +1,3 @@
+- [Packages](#packages)
+	- [Mad science](#mad-science)
+	- [Command-line apps](#command-line-apps)

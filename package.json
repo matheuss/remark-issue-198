@@ -1,0 +1,30 @@
+{
+  "name": "remark-issue-198",
+  "version": "0.1.0",
+  "private": true,
+  "description": "https://github.com/wooorm/remark/issues/198",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuss/remark-issue-198.git"
+  },
+  "author": "Matheus Fernandes <npm@matheus.top> (https://matheus.top/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuss/remark-issue-198/issues"
+  },
+  "homepage": "https://github.com/matheuss/remark-issue-198#readme",
+  "dependencies": {
+    "globby": "^6.0.0",
+    "pify": "^2.3.0",
+    "remark": "^5.0.1",
+    "remark-lint": "^4.1.0",
+    "remark-lint-no-empty-sections": "^1.0.0",
+    "remark-lint-no-url-trailing-slash": "^2.0.0",
+    "to-vfile": "^1.0.0",
+    "vfile-reporter": "^2.1.0"
+  }
+}
